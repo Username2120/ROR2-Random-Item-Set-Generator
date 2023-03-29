@@ -1,2 +1,2 @@
 # ROR2-Random-Item-Set-Generator
-the silliest shit
+gives a set of items for you to follow while playing on command
